@@ -1,0 +1,128 @@
+Animal:Elephant
+Animal:Dog
+Animal:Cat
+Animal:Turtle
+Animal:Horse
+Animal:Dolphine
+Animal:Horse
+Animal:Whale
+Animal:Donkey
+Color:Purple
+Color:Cyan
+Color:Green
+Color:Yellow
+Color:Blue
+Color:Red
+Color:Orange
+Mineral:Gold
+Mineral:Silver
+Mineral:Diamond
+Mineral:Amesite
+Mineral:Fluorite
+Mineral:Heazlewoodite
+Mineral:Langite
+Mineral:Meionite
+Game:Hearts Of Iron
+Game:The Legends Of Zelda
+Game:Overwatch
+Game:League of Legends
+Game:Civilization
+Game:Call of Duty
+Game:Battlefield
+Game:Minecraft
+Game:Mariokart
+Game:The Legend of Zelda
+What Are You Doing:Biking Around The City
+What Are You Doing:Buying A Dozen Roses
+What Are You Doing:Buying A New Car
+What Are You Doing:Buying A New Laptop
+What Are You Doing:Blowing Up Ballons
+What Are You Doing:Counting My Steps
+What Are You Doing:Doing Odd Jobs
+What Are You Doing:Downloading New Music
+What Are You Doing:Baking Cookies With My Kids
+What Are You Doing:Camping In A National Forest
+What Are You Doing:Dressing Up As A Monster
+What Are You Doing:Eating Dinner With My Familly
+Movie Quotes:I Drink Your Milkshake
+Movie Quotes:Feed Me Feed Me
+Movie Quotes:I'll Be Back
+Movie Quotes:If You Build It He Will Come
+Movie Quotes:You Shall Not Pass
+Fictional Character:Agent Smith
+Fictional Character:Achilles
+Fictional Character:Wizard Of Oz
+Fictional Character:Thor
+Fictional Character:Spooky Skeletons
+Event:A Full Moon
+Event:A Day At The Zoo
+Event:Intimate Moment
+Event:Jury Trial
+Event:Joy Ride
+Book Title:Harry Potter And The Chamber Of Secrets
+Book Title:The Jungle Book
+Book Title:Ulysses
+Book Title:Utopia
+Book Title:Out Of Africa
+Classic Movies:Damn Yankees
+Classic Movies:Midnight Cowboy
+Classic Movies:Star Wars
+Classic Movies:The Exorcist
+Classic Movies:The Shining
+Song Artist:Remember The Time By Michael Jackson
+Song Artist:Goin' Down To Mexico By ZZ Top
+Song Artist:Happy By Pharrell Williams
+Song Artist:Hardwired By Metallica
+Song Artist:Honey Honey By ABBA
+Fictional Place:Utopia
+Fictional Place:Land Of Oz
+Fictional Place:Planet Krypton
+Fictional Place:Enchanted Forest
+Fictional Place:Metropolis
+On The Map:Adriatic Sea
+On The Map:Africa
+On The Map:Pacific City
+On The Map:Paris France
+On The Map:Luxembourg Luxembourg
+On The Map:Prague Czech Republic
+Place:A Room With A View
+Place:Abandoned Warehouse
+Place:Horse Stable
+Place:Indoor Cafe
+Place:Irish Pub
+Place:Belval Plaza
+Place:Auditorium
+Place:Maison Du Savoir
+Food And Drink:Almonds
+Food And Drink:Cheese
+Food And Drink:Water
+Food And Drink:Pudding
+Food And Drink:Alphabet Soup
+Food And Drink:Baked Potatoes
+Food And Drink:Camel Milk
+Food And Drink:Fruit Cocktail
+Food And Drink:Goat Cheese
+Food And Drink:Bags Of Candy
+Food And Drink:Garlic Fried Rice
+Food And Drink:Green Tea Powder
+Food And Drink:Hot Cocoa Mix
+Expressions:Bend over backwards
+Expressions:bite off more than one can chew
+Expressions:give someone a hand
+Expressions:in the nick of time
+Expressions:know something like the back of your hand
+Expressions:to get the ball rolling
+Idiom:Actions speak louder than words
+Idiom:An arm and a leg
+Idiom:At the drop of a hat
+Idiom:Ball is in your court
+Idiom:Blessing in disguise
+Idiom:Can't judge a book by its cover 
+Idiom:Hit the nail on the head 
+Idiom:It takes two to tango
+Idiom:Let the cat out of the bag
+Idiom:Wouldn't be caught dead
+Idiom:Steal someone's thunder 
+Idiom:Put wool over other people's eyes
+Idiom:Once in a blue moon
+Idiom:Don't count your chickens before the eggs have hatched
